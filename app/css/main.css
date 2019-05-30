@@ -1,0 +1,68 @@
+.wrapper{
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    flex-wrap:nowrap;
+    justify-content: center;
+    align-items:center;
+    margin:0 auto;
+    color:blue;
+
+
+}
+
+body {
+    background-image: url("http://s5.favim.com/orig/54/animal-black-and-white-cute-dalmatian-Favim.com-513206.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100vh;
+  }
+
+.text-container{
+    margin-top:30px;
+}
+
+h1, h3{
+    font-size:bold;
+    color:blue;
+    font-family: 'ZCOOL KuaiLe', sans-serif;
+}
+
+
+footer{
+    color:white;
+    justify-self:end;
+}
+
+
+blockquote{
+    font-size:1.2em;
+    font-family: sans-serif;
+    margin:20px 0 10px 0;
+    text-align:center;
+}
+
+.jumbotron{
+    background-color:transparent;
+    height:50vh;
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    display:none;
+}
+
+   
+p{
+    margin: auto;
+}
+
+footer{
+    text-align: center;
+    top:90%
+}
+
+button{
+    font-family: 'ZCOOL KuaiLe', sans-serif;
+}
